@@ -1,1 +1,1 @@
-If the article is adopted, the code will be available.
+If the article is accepted, the code will be available.
