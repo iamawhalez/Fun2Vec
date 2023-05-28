@@ -1,6 +1,6 @@
 ## Introduction
 
-Func2vec is a tool to match semantically similar functions based on constrative learning. This is the open source repository for the article fun2vec https://arxiv.org/abs/2209.02442
+Func2vec is a tool to match semantically similar functions based on constrative learning. This is the open source repository for the article https://arxiv.org/abs/2209.02442
 
 ## Installation
 you need to install the Trex [1] model first.
